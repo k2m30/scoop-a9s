@@ -1,0 +1,22 @@
+{
+    "version": "3.5.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/k2m30/a9s/releases/download/v3.5.0/a9s_3.5.0_windows_amd64.zip",
+            "bin": [
+                "a9s.exe"
+            ],
+            "hash": "c95436f1f0a0272f7d059b0a5791783b4c4677ebecfb2691341f6567e06b3eb7"
+        },
+        "arm64": {
+            "url": "https://github.com/k2m30/a9s/releases/download/v3.5.0/a9s_3.5.0_windows_arm64.zip",
+            "bin": [
+                "a9s.exe"
+            ],
+            "hash": "df5a5b952d3c2d2dd5a2ee984c693a607e524cec95751e76f186f058db780f6d"
+        }
+    },
+    "homepage": "https://github.com/k2m30/a9s",
+    "license": "GPL-3.0-or-later",
+    "description": "Terminal UI AWS Resource Manager"
+}
