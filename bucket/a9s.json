@@ -1,19 +1,19 @@
 {
-    "version": "3.29.0",
+    "version": "3.31.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/k2m30/a9s/releases/download/v3.29.0/a9s_3.29.0_windows_amd64.zip",
+            "url": "https://github.com/k2m30/a9s/releases/download/v3.31.0/a9s_3.31.0_windows_amd64.zip",
             "bin": [
                 "a9s.exe"
             ],
-            "hash": "11fdce743aa010091da6ba45a58afe28e8a683949d06df3bc12c500b733dbd16"
+            "hash": "5fb6df3a568dfe522c1b1fac4b0d2c89c2cd7c1c4ccd63381735a64e73d3f6ee"
         },
         "arm64": {
-            "url": "https://github.com/k2m30/a9s/releases/download/v3.29.0/a9s_3.29.0_windows_arm64.zip",
+            "url": "https://github.com/k2m30/a9s/releases/download/v3.31.0/a9s_3.31.0_windows_arm64.zip",
             "bin": [
                 "a9s.exe"
             ],
-            "hash": "07ed29eefb049daf83d0874fb1277660378f250913e6bdd9b3c6a3c6f893dd98"
+            "hash": "ac72ada34145741b9e2e38812608b18c5d3034dea08660f6698d354c0534102b"
         }
     },
     "homepage": "https://github.com/k2m30/a9s",
